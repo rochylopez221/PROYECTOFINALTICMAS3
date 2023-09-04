@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PROYECTO FINAL TICMAS</string>
+
+    <string name="comparar">Comparar</string>
+    <string name="enter_value_1">enter value 1</string>
+    <string name="enter_value_2">enter value 2</string>
+    <string name="same_values">Values are the same.</string>
+    <string name="different_values">Values are different.</string>
+    <string name="icono">ICONO</string>
+    <string name="proyecto_final_ticmas">PROYECTO FINAL TICMAS</string>
+    <string name="desarrollo_de_aplicaciones_m_viles_n_2023">DESARROLLO DE APLICACIONES MÓVILES \n 2023</string>
+</resources>
